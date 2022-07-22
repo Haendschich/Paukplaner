@@ -1,0 +1,9 @@
+To do
+
+Genauer andere Zeiten in den Stundenplänen
+Bei Erstellung ohne Klicken wird ein leeres Textfeld erzeugt
+
+OptionMenu für die Leiter aktualisiert sich nur bei Neustart, da die Liste
+    im Wigdet sich nicht aktualisiert, sondern nur die listOfLeiter
+
+Excel Export
